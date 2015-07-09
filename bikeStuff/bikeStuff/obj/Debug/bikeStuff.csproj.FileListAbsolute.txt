@@ -15,12 +15,9 @@ C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\Microsoft.Web.In
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\Microsoft.Web.WebPages.OAuth.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\Newtonsoft.Json.dll
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Net.Http.Formatting.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Spatial.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Helpers.dll
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Http.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Http.OData.dll
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Http.WebHost.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Mvc.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Optimization.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Razor.dll
@@ -32,10 +29,7 @@ C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\WebMatrix.Data.d
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\WebMatrix.WebData.dll
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\EntityFramework.xml
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\Newtonsoft.Json.xml
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Net.Http.Formatting.xml
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Helpers.xml
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Http.xml
-C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Http.WebHost.xml
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Mvc.xml
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.Razor.xml
 C:\Users\Matt\Web Development\bikeStuff\bikeStuff\bikeStuff\bin\System.Web.WebPages.xml
